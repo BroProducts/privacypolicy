@@ -1,0 +1,155 @@
+.img-wallpaper{
+  background: #d8dce6 url("../img/wallpaper.jpg") no-repeat center;
+  width: 100%;
+  z-index: 50;
+  padding-bottom: 56.111%;
+  background-size: 100%;
+}
+
+.img-profil{
+  background: #d8dce6 url(../img/appicon3.png) no-repeat center;
+  background-size: contain;
+  width: 140px;
+  height: 140px;
+  margin: 0 auto;
+  z-index: 100;
+  margin-top: -75px;
+  border: 4px solid #c5c5c5;
+  border-radius: 16px;
+}
+
+.navbar .center {
+    font-weight: 600;
+}
+
+i.icon.icon-javascript {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-javascript.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-react {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-react.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-knockout {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-knockout.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-nodejs {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-nodejs.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-sharepoint {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-sharepoint.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-php {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-php.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-sql {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-sql.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-mysql {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-mysql.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-mongodb {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-mongodb.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-html {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-html.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-css {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-css.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-linux {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-linux.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-windows-server {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-windows-server.png);
+    border-radius: 6px;
+}
+
+i.icon.icon-microsoft-office {
+    width: 29px;
+    height: 29px;
+    background-image: url(../img/icon-office.png);
+    border-radius: 6px;
+}
+
+.text-subtitle{
+  font-weight: 600
+}
+
+.card-header-title{
+  font-weight: 600
+}
+
+@media (min-width: 600px) {
+  .card {
+      width: 400px;
+      margin: auto;
+      margin-top: 10px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+  .img-wallpaper{
+    padding-bottom: 35.111%;
+  }
+}
+
+@media (min-width: 1001px) and (max-width: 1500px) {
+  .img-wallpaper{
+    padding-bottom: 23.111%;
+  }
+}
+
+@media (min-width: 1501px) {
+  .img-wallpaper{
+    padding-bottom: 13.111%;
+  }
+}
