@@ -127,9 +127,6 @@ i.icon.icon-microsoft-office {
 .card-header-title{
   font-weight: 600
 }
-.card-content{
-  padding: 5px
-}
 
 @media (min-width: 600px) {
   .card {
